@@ -1,2 +1,7 @@
 This is my file created in central repository
+<<<<<<< HEAD
 Updating from local
+=======
+Developed by developer two
+Updates made by developer two
+>>>>>>> 32514ebd1938d64ae836128259f9a01260f0032a
